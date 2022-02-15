@@ -8,4 +8,4 @@ The data was sourced from https://divvy-tripdata.s3.amazonaws.com/index.html
 https://ride.divvybikes.com/data-license-agreement
 
 Business Question to be answered:
-How do annual members and casual riders use Cyclistic bikes differently?
+How do customers and subscribers use Cyclistic bikes differently?
